@@ -6,7 +6,7 @@
 - Buka folder projectnya di text editor
 - Buka terminal, pastikan terminalnya sudah mengarah ke folder project, 
 - kemudian jalankan perintah `npm install` untuk menginstall semua dependencies
-- jika semua dependencies sudah terinstall, jalankan perintah `npm start' untuk menjalankan aplikasinya di mode development
+- jika semua dependencies sudah terinstall, jalankan perintah `npm start` untuk menjalankan aplikasinya di mode development
 - Buka alamat http://localhost:3000](http://localhost:3000) di browser untuk melihatnya
 
 
