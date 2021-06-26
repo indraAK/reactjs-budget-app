@@ -1,11 +1,14 @@
 # Aplikasi web serderhana untuk memantau dana & pengeluaran dana 
 
-## Langkah Awal
+## Langkah Pertama
 
 - Download dulu source codenya
 - Buka folder projectnya di text editor
-- Buka terminal, arahkan ke folder projectnya
+- Buka terminal, pastikan terminalnya sudah mengarah ke folder project, 
 - kemudian jalankan perintah `npm install` untuk menginstall semua dependencies
+- jika semua dependencies sudah terinstall, jalankan perintah `npm start' untuk menjalankan aplikasinya di mode development
+- Buka alamat http://localhost:3000](http://localhost:3000) di browser untuk melihatnya
+
 
 
 ## Available Scripts
